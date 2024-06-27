@@ -1,0 +1,4 @@
+data akun 1
+data akun 2
+
+1 line 1 data akun
